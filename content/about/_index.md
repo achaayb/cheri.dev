@@ -30,5 +30,6 @@ Comfortable with the **agile** approach, I ensure that the projects I undertake 
 - Sekera [LinkedIn](https://www.linkedin.com/company/sekera)
 - Sec-Dojo [LinkedIn](https://www.linkedin.com/company/secdojo)
 - Crisis [LinkedIn](https://www.linkedin.com/company/crisi5)
+- And **two** other confidential clients
 
 I have also partnered with various companies as an independent freelancer.
