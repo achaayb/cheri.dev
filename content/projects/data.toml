@@ -1,4 +1,22 @@
 [[project]]
+name = "CommandCenter"
+desc = "Building a robust architecture and backend for the command center project, dealing with large amounts of data and complex computations while maintaining performance, scalability and high availabilty"
+tags = ["Backend", "DataScience"]
+img = ""
+links = [
+  { name = "LHP Europe", url = "https://lhpeurope.com" }
+]
+
+[[project]]
+name = "CoreAPI"
+desc = "Core is a high-performance lightweight framework for building API's in python with no extra dependencies based on the ASGI specification, allowing async endpoints to be handled in the main event loop as well as synchronous ones being handled in a thread pool."
+tags = ["OpenSource"]
+img = ""
+links = [
+  { name = "Github", url = "https://github.com/achaayb/CoreAPI" }
+]
+
+[[project]]
 name = "SecDojo"
 desc = "Build the Engine behind sec-dojo.com, a Cyber-range platform based on Cloud and Infra-As-Code technologies to offer an integrated environment for cybersecurity training"
 tags = ["Backend", "Cloud", "DevOps"]
@@ -14,22 +32,4 @@ tags = ["Backend", "Ai", "Salesforce"]
 img = ""
 links = [
   { name = "FlowSiti", url = "https://www.flowsiti.ai" }
-]
-
-[[project]]
-name = "CoreAPI"
-desc = "Core is a high-performance lightweight framework for building API's in python with no extra dependencies based on the ASGI specification "
-tags = ["OpenSource"]
-img = ""
-links = [
-  { name = "Github", url = "https://github.com/achaayb/CoreAPI" }
-]
-
-[[project]]
-name = "CommandCenter"
-desc = "Building a robust architecture and backend for the command center project, dealing with large amounts of data and complex computations while maintaining performance, scalability and high availabilty"
-tags = ["Backend", "DataScience"]
-img = ""
-links = [
-  { name = "LHP Europe", url = "https://lhpeurope.com" }
 ]
