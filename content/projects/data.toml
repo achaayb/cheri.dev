@@ -1,7 +1,7 @@
 [[project]]
 name = "CommandCenter"
 desc = "Building a robust architecture and backend for the command center project, dealing with large amounts of data and complex computations while maintaining performance, scalability and high availabilty"
-tags = ["Backend", "DataScience"]
+tags = ["Backend", "Systems design ", "DataScience"]
 img = ""
 links = [
   { name = "LHP Europe", url = "https://lhpeurope.com" }
