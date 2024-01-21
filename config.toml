@@ -1,4 +1,6 @@
 base_url = "https://cheri.dev"
+title = "Cheri.dev"
+description = "Ali Chaayb's personal hub on the internet! ✨"
 compile_sass = true
 build_search_index = false
 taxonomies = [
@@ -50,4 +52,3 @@ footer_credits = false                 # Whether to show "powered by zola and se
 not_found_title = "404"
 not_found_error_text = "Not Found"
 not_found_recover_text = "« back to home »"
-external_links_target_blank = true
