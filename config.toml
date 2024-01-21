@@ -11,7 +11,7 @@ taxonomies = [
 highlight_code = true
 [extra]
 name = "Ali Chaayb"
-id = "cheri.dev"
+id = "cheridev"
 bio = "Backend/Devops Engineer (≧⌣≦)"
 avatar = "img/achaayb.jpeg"
 links = [
