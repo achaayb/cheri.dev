@@ -15,7 +15,7 @@ avatar = "img/achaayb.jpeg"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/achaayb" },
     { name = "Linkedin", icon = "linkedin", url = "https://www.linkedin.com/in/achaayb/" },
-    { name = "Email", icon = "email", url = "mailto:achaayb.cheri.dev@gmail.com" },
+    { name = "Email", icon = "email", url = "mailto:achaayb.cheri.dev@gmail.com" }
 ]
 feed_filename = "rss.xml"
 homepage_layout = "about"
