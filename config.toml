@@ -1,6 +1,6 @@
 base_url = "https://cheri.dev"
-title = "Cheri.dev"
-description = "Ali Chaayb's personal hub on the internet! ✨"
+title = "Ali Chaayb - Personal Website"
+description = " This is the personal website showcasing Ali chaayb's work, interests, and more..."
 compile_sass = true
 build_search_index = false
 taxonomies = [
