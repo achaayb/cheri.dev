@@ -7,14 +7,6 @@ links = [
   { name = "LHP Europe", url = "https://lhpeurope.com" }
 ]
 
-[[project]]
-name = "CoreAPI"
-desc = "Core is a high-performance lightweight framework for building API's in python with no extra dependencies based on the ASGI specification, allowing async endpoints to be handled in the main event loop as well as synchronous ones being handled in a thread pool."
-tags = ["OpenSource"]
-img = ""
-links = [
-  { name = "Github", url = "https://github.com/achaayb/CoreAPI" }
-]
 
 [[project]]
 name = "SecDojo"
@@ -32,4 +24,20 @@ tags = ["Backend", "Ai", "Salesforce"]
 img = ""
 links = [
   { name = "FlowSiti", url = "https://www.flowsiti.ai" }
+]
+
+[[project]]
+name = "Confidential"
+desc = "Creating and sustaining an internal project for a undisclosed client in the energy technology sector. This project facilitates technicians in testing and validating transformers while generating comprehensive reports."
+tags = ["Internal", "Sensitive", "Confidential"]
+img = ""
+links = []
+
+[[project]]
+name = "CoreAPI"
+desc = "Core is a high-performance lightweight framework for building API's in python with no extra dependencies based on the ASGI specification, allowing async endpoints to be handled in the main event loop as well as synchronous ones being handled in a thread pool."
+tags = ["OpenSource"]
+img = ""
+links = [
+  { name = "Github", url = "https://github.com/achaayb/CoreAPI" }
 ]
