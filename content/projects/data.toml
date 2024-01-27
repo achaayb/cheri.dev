@@ -35,7 +35,7 @@ links = []
 
 [[project]]
 name = "CoreAPI"
-desc = "Core is a high-performance lightweight framework for building API's in python with no extra dependencies based on the ASGI specification, allowing async endpoints to be handled in the main event loop as well as synchronous ones being handled in a thread pool."
+desc = "CoreAPI is a high-performance RSGI lightweight framework for building API's in python with no requirements"
 tags = ["OpenSource"]
 img = ""
 links = [
