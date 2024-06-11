@@ -1,7 +1,7 @@
 [[project]]
 name = "CommandCenter"
 desc = "Building a robust architecture and backend for the command center project, dealing with large amounts of data and complex computations while maintaining performance, scalability and high availabilty"
-tags = ["Backend", "Systems design ", "DataScience", "DevOps"]
+tags = ["FastAPI", "Celery", "Flask", "Redis" ,"Docker", "Docker-Compose", "Kubernetes", "Azure", "Sentry", "ELK", "Prometheus/Grafana"]
 img = ""
 links = [
   { name = "LHP Europe", url = "https://lhpeurope.com" }
@@ -11,7 +11,7 @@ links = [
 [[project]]
 name = "SecDojo"
 desc = "Build the Engine behind sec-dojo.com, a Cyber-range platform based on Cloud and Infra-As-Code technologies to offer an integrated environment for cybersecurity training"
-tags = ["Backend", "Cloud", "DevOps"]
+tags = ["FastAPI", "Celery", "Ansible", "CI/CD", "Docker", "Kubernetes", "MySQL", "Redis", "Boto3", "AWS"]
 img = ""
 links = [
   { name = "Platform", url = "https://sec-dojo.com" }
@@ -20,23 +20,23 @@ links = [
 [[project]]
 name = "FlowSiti"
 desc = "As the lead developer on the FlowSiti project, I've been driving the development of an AI-powered Salesforce builder. This system takes a business overview as a prompt and automatically translates it into a comprehensive flow chart. Once saved, you can apply those changes directly to your Salesforce organization. "
-tags = ["Backend", "Ai", "Salesforce"]
+tags = ["FastAPI", "Flask", "OpenAI", "Salesforce", "MongoDB", "AWS"]
 img = ""
 links = [
-  { name = "FlowSiti", url = "https://www.flowsiti.ai" }
+  { name = "FlowSiti", url = "https://flowsiti.ai" }
 ]
 
 [[project]]
 name = "Confidential"
 desc = "Creating and sustaining an internal project for a undisclosed client in the energy technology sector. This project facilitates technicians in testing and validating transformers while generating comprehensive reports."
-tags = ["Internal", "Sensitive", "Confidential"]
+tags = ["Flask", "React", "MSSQL", "CI/CD", "Azure"]
 img = ""
 links = []
 
 [[project]]
-name = "CoreAPI"
-desc = "CoreAPI is a high-performance RSGI lightweight framework for building API's in python with no requirements"
-tags = ["OpenSource"]
+name = "ASGIRouter"
+desc = "ASGIRouter is a lightweight and flexible ASGI routing library. "
+tags = ["OSS", "Python"]
 img = ""
 links = [
   { name = "Github", url = "https://github.com/achaayb/CoreAPI" }

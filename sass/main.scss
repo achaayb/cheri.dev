@@ -1481,3 +1481,51 @@ template {
 [hidden] {
   display: none;
 }
+
+
+// Slider
+
+@mixin white-gradient {
+	background: linear-gradient(to right,  rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%);
+}
+
+$animationSpeed: 40s;
+
+// Animation
+@keyframes scroll {
+  0% { transform: translateX(0); }
+  50% { transform: translateX(calc(-110px * 7)); } /* Adjust this value based on half the total width */
+  100% { transform: translateX(0); }
+}
+
+
+// Styling
+.slider {
+	height: 100px;
+	margin: auto;
+	overflow:hidden;
+	position: relative;
+	width: auto;
+	
+	&::after {
+		right: 0;
+		top: 0;
+		transform: rotateZ(180deg);
+	}
+
+	&::before {
+		left: 0;
+		top: 0;
+	}
+	
+	.slide-track {
+		animation: scroll $animationSpeed linear infinite;
+		display: flex;
+		width: calc(250px * 14);
+	}
+	
+	.slide {
+		height: 100px;
+		width: 110px;
+	}
+}

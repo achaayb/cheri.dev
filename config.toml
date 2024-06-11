@@ -1,8 +1,8 @@
 base_url = "https://cheri.dev"
-title = "Ali Chaayb - Personal Website"
-description = " This is the personal website showcasing Ali chaayb's work, interests, and more..."
+title = "Cheri | Expert Backend & Devops Consultant"
+description = "Cheri offers expert backend and DevOps consulting services. Specializing in Python, FastAPI, API design, microservices, SQL/NoSQL databases, Docker, Kubernetes, and observability tools, I help improve your backend infrastructure and optimize your DevOps processes."
 compile_sass = true
-build_search_index = false
+build_search_index = true
 taxonomies = [
     {name = "categories", feed = false},
     {name = "tags", feed = false},
@@ -11,8 +11,8 @@ taxonomies = [
 highlight_code = true
 [extra]
 name = "Ali Chaayb"
-id = "cheridev"
-bio = "Backend/Devops Engineer (≧⌣≦)"
+id = "achaayb"
+bio = "Backend/Devops Engineer"
 avatar = "img/achaayb.jpeg"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/achaayb" },
@@ -27,12 +27,13 @@ recent_more_text = "more »"
 sections = [
     { name = "Projects", path = "/projects", is_external = false },
     { name = "Blog", path = "/blog", is_external = false },
-    { name = "About", path = "/about", is_external = false }
+    { name = "Services", path = "/services", is_external = false },
+    { name = "Resume", path = "/docs/resume.pdf", is_external = true }
 ]
 blog_section_path = "/blog"
-nav_separator = "::"
-nav_wrapper_left = "{"
-nav_wrapper_right = "} ;"
+nav_separator = "..."
+nav_wrapper_left = "|"
+nav_wrapper_right = "|"
 nav_wrapper_separator = ","
 display_id = true                  
 blog_categorized = true              
@@ -48,7 +49,7 @@ outdate_alert_days = 120
 outdate_alert_text_before = "This article was last updated "
 outdate_alert_text_after = " days ago and may be out of date."
 footer_copyright = "© 2024 cheri.dev"
-footer_credits = false                 # Whether to show "powered by zola and serene" in footer
+footer_credits = false
 not_found_title = "404"
 not_found_error_text = "Not Found"
 not_found_recover_text = "« back to home »"
