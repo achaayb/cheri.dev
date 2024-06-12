@@ -1,6 +1,6 @@
 base_url = "https://cheri.dev"
 title = "Cheri | Expert Backend & Devops Consultant"
-description = "Cheri offers expert backend and DevOps consulting services. Specializing in Python, FastAPI, API design, microservices, SQL/NoSQL databases, Docker, Kubernetes, and observability tools, I help improve your backend infrastructure and optimize your DevOps processes."
+description = "Cheri's expert backend and DevOps consulting services. Specializing in Python, FastAPI, API design, microservices, SQL/NoSQL databases, Docker, Kubernetes, and observability tools, I help improve your backend infrastructure and optimize your DevOps processes."
 compile_sass = true
 build_search_index = true
 taxonomies = [
