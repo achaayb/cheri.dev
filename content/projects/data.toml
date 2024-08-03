@@ -20,7 +20,7 @@ links = [
 [[project]]
 name = "FlowSiti"
 desc = "As the lead developer on the FlowSiti project, I've been driving the development of an AI-powered Salesforce builder. This system takes a business overview as a prompt and automatically translates it into a comprehensive flow chart. Once saved, you can apply those changes directly to your Salesforce organization. "
-tags = ["FastAPI", "Flask", "OpenAI", "Salesforce", "MongoDB", "AWS"]
+tags = ["FastAPI", "Flask", "OpenAI", "Salesforce", "MongoDB", "AWS", "ML", "WorkOS", "DevOps"]
 img = ""
 links = [
   { name = "FlowSiti", url = "https://flowsiti.ai" }
@@ -28,16 +28,34 @@ links = [
 
 [[project]]
 name = "Confidential"
-desc = "Creating and sustaining an internal project for a undisclosed client in the energy technology sector. This project facilitates technicians in testing and validating transformers while generating comprehensive reports."
+desc = "Building and maintaining an internal project for a undisclosed client in the energy technology sector. This project facilitates technicians in testing and validating transformers while generating comprehensive reports."
 tags = ["Flask", "React", "MSSQL", "CI/CD", "Azure"]
 img = ""
 links = []
 
 [[project]]
 name = "ASGIRouter"
-desc = "ASGIRouter is a lightweight and flexible ASGI routing library. "
+desc = "ASGIRouter is a lightweight and flexible ASGI routing library."
 tags = ["OSS", "Python"]
 img = ""
 links = [
   { name = "Github", url = "https://github.com/achaayb/CoreAPI" }
+]
+
+[[project]]
+name = "Montagne"
+desc = "TCP client-server POC where tasks are triggered by the client and responses are sent as pickled Python objects. "
+tags = ["OSS", "Python", "Sockets"]
+img = ""
+links = [
+  { name = "Github", url = "https://github.com/achaayb/Montagne" }
+]
+
+[[project]]
+name = "This Website"
+desc = "Just a simple website generated using zola, all i have to do is push new stuff and a pipeline builds the entire thing."
+tags = ["Zola"]
+img = ""
+links = [
+  { name = "Github", url = "https://github.com/achaayb/cheri.dev" }
 ]

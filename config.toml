@@ -1,6 +1,6 @@
 base_url = "https://cheri.dev"
-title = "Cheri | Expert Backend & Devops Consultant"
-description = "Cheri's expert backend and DevOps consulting services. Specializing in Python, FastAPI, API design, microservices, SQL/NoSQL databases, Docker, Kubernetes, and observability tools, I help improve your backend infrastructure and optimize your DevOps processes."
+title = "Ali's personal website"
+description = "Just my little spot on the world wide web"
 compile_sass = true
 build_search_index = true
 taxonomies = [
@@ -12,7 +12,7 @@ highlight_code = true
 [extra]
 name = "Ali Chaayb"
 id = "achaayb"
-bio = "Backend/Devops Engineer"
+bio = "Backend/DevOps and other fun stuff"
 avatar = "img/achaayb.jpeg"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/achaayb" },
@@ -27,7 +27,6 @@ recent_more_text = "more »"
 sections = [
     { name = "Projects", path = "/projects", is_external = false },
     { name = "Blog", path = "/blog", is_external = false },
-    { name = "Services", path = "/services", is_external = false },
     { name = "Resume", path = "/docs/resume.pdf", is_external = true }
 ]
 blog_section_path = "/blog"

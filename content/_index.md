@@ -3,10 +3,13 @@
 lang = 'en'
 +++
 
-# Expert Backend and DevOps Consulting Services by Cheri
-I specialize in developing high-performance backends, designing secure APIs, and orchestrating workflows using Kubernetes and Docker. With a focus on Python, FastAPI, API design, microservices, SQL/NoSQL databases, Docker, Kubernetes, and observability tools, I ensure your systems are efficient, secure, and scalable.
+# Ali Chaayb's personal website
 
-Partner with me to elevate your technological infrastructure and achieve seamless operations. Let’s build systems that support your growth and success.
+Hello people of the internet!
+
+self-taught Backend/DevOps engineer with extensive experience in various related areas.
+
+i'll be sharing here whatever i think is interesting
 
 ---
 
