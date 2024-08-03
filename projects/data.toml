@@ -1,0 +1,61 @@
+[[project]]
+name = "CommandCenter"
+desc = "Building a robust architecture and backend for the command center project, dealing with large amounts of data and complex computations while maintaining performance, scalability and high availabilty"
+tags = ["FastAPI", "Celery", "Flask", "Redis" ,"Docker", "Docker-Compose", "Kubernetes", "Azure", "Sentry", "ELK", "Prometheus/Grafana"]
+img = ""
+links = [
+  { name = "LHP Europe", url = "https://lhpeurope.com" }
+]
+
+
+[[project]]
+name = "SecDojo"
+desc = "Build the Engine behind sec-dojo.com, a Cyber-range platform based on Cloud and Infra-As-Code technologies to offer an integrated environment for cybersecurity training"
+tags = ["FastAPI", "Celery", "Ansible", "CI/CD", "Docker", "Kubernetes", "MySQL", "Redis", "Boto3", "AWS"]
+img = ""
+links = [
+  { name = "Platform", url = "https://sec-dojo.com" }
+]
+
+[[project]]
+name = "FlowSiti"
+desc = "As the lead developer on the FlowSiti project, I've been driving the development of an AI-powered Salesforce builder. This system takes a business overview as a prompt and automatically translates it into a comprehensive flow chart. Once saved, you can apply those changes directly to your Salesforce organization. "
+tags = ["FastAPI", "Flask", "OpenAI", "Salesforce", "MongoDB", "AWS", "ML", "WorkOS", "DevOps"]
+img = ""
+links = [
+  { name = "FlowSiti", url = "https://flowsiti.ai" }
+]
+
+[[project]]
+name = "Confidential"
+desc = "Building and maintaining an internal project for a undisclosed client in the energy technology sector. This project facilitates technicians in testing and validating transformers while generating comprehensive reports."
+tags = ["Flask", "React", "MSSQL", "CI/CD", "Azure"]
+img = ""
+links = []
+
+[[project]]
+name = "ASGIRouter"
+desc = "ASGIRouter is a lightweight and flexible ASGI routing library."
+tags = ["OSS", "Python"]
+img = ""
+links = [
+  { name = "Github", url = "https://github.com/achaayb/CoreAPI" }
+]
+
+[[project]]
+name = "Montagne"
+desc = "TCP client-server POC where tasks are triggered by the client and responses are sent as pickled Python objects. "
+tags = ["OSS", "Python", "Sockets"]
+img = ""
+links = [
+  { name = "Github", url = "https://github.com/achaayb/Montagne" }
+]
+
+[[project]]
+name = "This Website"
+desc = "Just a simple website generated using zola, all i have to do is push new stuff and a pipeline builds the entire thing."
+tags = ["Zola"]
+img = ""
+links = [
+  { name = "Github", url = "https://github.com/achaayb/cheri.dev" }
+]
